@@ -48,6 +48,26 @@ Changes to be committed:
 	new file:   answers.md
 
 Answer 7:
+[master 0f97949] Initial commit
+ 1 file changed, 10 insertions(+)
+lehlerin@odd29:~/git-lab$ git status
+On branch master
+nothing to commit, working tree clean
+
+Answer 8:
+commit 0f9794949bb5885ffbf0d5205919878b45893315 (HEAD -> master)
+Author: Lizzy E <le016321@ohio.edu>
+Date:   Tue Jan 24 11:10:28 2023 -0500
+
+    Initial commit
+
+commit bee1f3f43be53c1b86fc6b02d1a159693b759a0c
+Author: Lizzy E <le016321@ohio.edu>
+Date:   Tue Jan 24 11:04:54 2023 -0500
+
+    Initial commit
+
+Answer 9:
 
 
 
