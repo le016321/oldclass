@@ -68,6 +68,21 @@ Date:   Tue Jan 24 11:04:54 2023 -0500
     Initial commit
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
 
+nothing to commit, working tree clean
+
+Answer 10:
+No
+
+Answer 11:
+It won't work because online changes were made
+
+Answer 12:
+Yes
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
 
 
